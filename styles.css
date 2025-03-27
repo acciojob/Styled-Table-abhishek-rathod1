@@ -1,1 +1,21 @@
 /* your code */
+
+table{
+	border-radius:5px;
+	border: 1px solid black;
+	/* padding: 10px; */
+	background-color:blue;
+}
+
+thead{
+	background-color: blue;
+}
+tbody{
+	background-color:white;
+}
+.light-row{
+	background-color: white;
+}
+.dark-row{
+	background-color: grey;
+}
